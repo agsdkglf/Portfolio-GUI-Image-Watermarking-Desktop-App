@@ -4,6 +4,7 @@ The project uses the Python Pillow library to put a watermark on one of the give
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -19,6 +20,11 @@ The project allows the user to put a watermark on a given picture. After running
 
 ## Technologies Used
 - Pillow 9.4.0
+
+
+## Screenshots
+![Example screenshot number 1](./img/screenshot1.png)
+![Example screenshot number 2](./img/screenshot2.png)
 
 
 ## Setup
